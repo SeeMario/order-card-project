@@ -1,0 +1,75 @@
+* {
+  font-family: "Red Hat Display", sans-serif;
+}
+.container {
+  margin: auto;
+  border: solid;
+  width: 450px;
+  border-radius: 20px;
+  overflow: hidden;
+  height: ;
+}
+.Proceed {
+  background-color: blue;
+  margin-top: 10px;
+  text-align: center;
+  height: 20px;
+  width: 22%;
+}
+.listen {
+  text-align: center;
+  width: 250px;
+  margin-left: 100px;
+  font-weigth: 600;
+  color: rgba(0, 0, 0, 0.519);
+  font-size: 16px;
+}
+.Order-summary {
+  text-align: center;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.918);
+}
+.Change {
+  text-align: center;
+}
+
+
+
+.cancel-Order {
+  text-align: center;
+}
+.Proceed {
+  margin-left: 30%;
+  background-color: hsl(245, 75%, 52%);
+  color: white;
+  height: 40px;
+  width: 200px;
+  `
+}
+.img2 {
+  margin-left: 2%;
+  height: 50px;
+  margin-right: 8px;
+}
+.Change {
+  color: blue;
+  text-decoration: underline;
+}
+.plan {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  background-color: hsl(225, 100%, 98%);
+  border-radius: 10px;
+  align-items: center;
+  margin: auto;
+}
+.Annual{
+  display: flex;
+  flex-direction: column;
+  height: 50px;
+}
+.Annual>p{
+  margin: 1px;
+  margin-right: 120px;
+}
